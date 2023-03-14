@@ -1,0 +1,24 @@
+{
+  "name": "my-draughts-game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.18",
+    "framer-motion": "^10.2.5",
+    "keras-js": "^1.0.3",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.8"
+  },
+  "devDependencies": {
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4"
+  }
+}
